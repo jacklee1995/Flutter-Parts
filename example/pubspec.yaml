@@ -17,7 +17,6 @@ dependencies:
   gap: ^3.0.1
   get: ^4.6.6
   get_it: ^7.6.7
-  smooth_page_indicator: ^1.1.0
 
 dev_dependencies:
   flutter_test:
