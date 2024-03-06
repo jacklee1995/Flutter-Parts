@@ -7,6 +7,7 @@ export './src/box/border.dart';
 
 // 滚动
 export './src/scroll/scrollo_indicator.dart';
+export './src/scroll/totop_scroll_view.dart';
 
 // 金刚区
 export './src/king_kong/flexi_card.dart';

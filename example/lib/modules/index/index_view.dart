@@ -38,6 +38,10 @@ class _IndexViewState extends State<IndexView> {
               title: const Text('标签'),
               onTap: () => Get.toNamed('/label'),
             ),
+            ListTile(
+              title: const Text('回顶部包装器'),
+              onTap: () => Get.toNamed('/totop-scroll-view'),
+            ),
           ],
         ),
       ),

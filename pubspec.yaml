@@ -1,7 +1,7 @@
 name: flutter_parts
 description: A practical UI component library that integrates multiple widgets commonly used in Flutter projects, aimed at helping developers build comprehensive UI effects within the shortest possible time frame.
 
-version: 0.0.1
+version: 0.0.1+1
 
 environment:
   sdk: '>=3.0.0 <4.0.0'

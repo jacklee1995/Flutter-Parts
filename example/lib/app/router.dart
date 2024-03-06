@@ -5,6 +5,7 @@ import '../modules/buttons/base_button_view.dart';
 import '../modules/index/index_view.dart';
 import '../modules/kingkong/KingkongView.dart';
 import '../modules/label/label_view.dart';
+import '../modules/scroll/scroll_blog_view.dart';
 
 class AppRoutes {
   static final routes = [
@@ -32,6 +33,11 @@ class AppRoutes {
     GetPage(
       name: LabelView.url,
       page: () => const LabelView(),
+    ),
+    // 会顶部
+    GetPage(
+      name: ScrollBlogView.url,
+      page: () => const ScrollBlogView(),
     ),
   ];
 }
